@@ -1,0 +1,17 @@
+c:\users\pfr\documents\visual studio 2010\Projects\BuscarDentroArchivos\BuscarDentroArchivos\bin\Debug\BuscarDentroArchivos.exe
+c:\users\pfr\documents\visual studio 2010\Projects\BuscarDentroArchivos\BuscarDentroArchivos\bin\Debug\BuscarDentroArchivos.pdb
+c:\users\pfr\documents\visual studio 2010\Projects\BuscarDentroArchivos\BuscarDentroArchivos\obj\x86\Debug\BuscarDentroArchivos.frmBusqueda.resources
+c:\users\pfr\documents\visual studio 2010\Projects\BuscarDentroArchivos\BuscarDentroArchivos\obj\x86\Debug\BuscarDentroArchivos.Properties.Resources.resources
+c:\users\pfr\documents\visual studio 2010\Projects\BuscarDentroArchivos\BuscarDentroArchivos\obj\x86\Debug\BuscarDentroArchivos.csproj.GenerateResource.Cache
+c:\users\pfr\documents\visual studio 2010\Projects\BuscarDentroArchivos\BuscarDentroArchivos\obj\x86\Debug\BuscarDentroArchivos.exe
+c:\users\pfr\documents\visual studio 2010\Projects\BuscarDentroArchivos\BuscarDentroArchivos\obj\x86\Debug\BuscarDentroArchivos.pdb
+C:\Users\PFR\Documents\Visual Studio 2010\Projects\BuscarDentroArchivos\BuscarDentroArchivos\obj\x86\Debug\BuscarDentroArchivos.csprojResolveAssemblyReference.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\BuscarDentroArchivos\BuscarDentroArchivos\bin\Debug\BuscarDentroArchivos.exe
+C:\Users\MI COMPU\Documents\PROYECTOS\BuscarDentroArchivos\BuscarDentroArchivos\bin\Debug\BuscarDentroArchivos.pdb
+C:\Users\MI COMPU\Documents\PROYECTOS\BuscarDentroArchivos\BuscarDentroArchivos\obj\x86\Debug\BuscarDentroArchivos.csprojAssemblyReference.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\BuscarDentroArchivos\BuscarDentroArchivos\obj\x86\Debug\BuscarDentroArchivos.frmBusqueda.resources
+C:\Users\MI COMPU\Documents\PROYECTOS\BuscarDentroArchivos\BuscarDentroArchivos\obj\x86\Debug\BuscarDentroArchivos.Properties.Resources.resources
+C:\Users\MI COMPU\Documents\PROYECTOS\BuscarDentroArchivos\BuscarDentroArchivos\obj\x86\Debug\BuscarDentroArchivos.csproj.GenerateResource.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\BuscarDentroArchivos\BuscarDentroArchivos\obj\x86\Debug\BuscarDentroArchivos.csproj.CoreCompileInputs.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\BuscarDentroArchivos\BuscarDentroArchivos\obj\x86\Debug\BuscarDentroArchivos.exe
+C:\Users\MI COMPU\Documents\PROYECTOS\BuscarDentroArchivos\BuscarDentroArchivos\obj\x86\Debug\BuscarDentroArchivos.pdb
